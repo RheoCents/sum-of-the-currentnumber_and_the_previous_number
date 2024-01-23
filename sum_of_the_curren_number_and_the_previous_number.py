@@ -7,4 +7,4 @@ for i in range (10):
     number_in_range_current_and_previous_sum = int(number_in_range_previous) + int(number_in_range_current)
 
 
-    print(number_in_range_current_and_previous_sum)
+    print('The current number is ',number_in_range_current,' and the previous number is ',number_in_range_previous, ' their sum is ', number_in_range_current_and_previous_sum)
